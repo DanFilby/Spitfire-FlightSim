@@ -1,0 +1,23 @@
+﻿  SimpleWorld.cpp
+D:\Program Repos\Spitfire\Spitfire\Utilities.hpp(66,25): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program Repos\Spitfire\Spitfire\SimpleWorld.cpp(195,23): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+D:\Program Repos\Spitfire\Spitfire\SimpleWorld.cpp(200,18): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+D:\Program Repos\Spitfire\Spitfire\SimpleWorld.cpp(214,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program Repos\Spitfire\Spitfire\SimpleWorld.cpp(224,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Program Repos\Spitfire\Spitfire\SimpleWorld.cpp(246,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+D:\Program Repos\Spitfire\Spitfire\Utilities.hpp(66,25): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program Repos\Spitfire\Spitfire\UIText.hpp(137,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Program Repos\Spitfire\Spitfire\Source.cpp(110,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\Program Repos\Spitfire\Spitfire\WindowInitialiser.hpp(56): warning C4715: 'WindowInitialiser::Init': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Spitfire.vcxproj -> D:\Program Repos\Spitfire\x64\Debug\Spitfire.exe
